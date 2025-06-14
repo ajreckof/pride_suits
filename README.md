@@ -1,6 +1,6 @@
 ABOUT
 ===================
-Balatro mod for custom suits for pride flags. huge shoutout to [https://www.reddit.com/user/Sea_moose5/](u/sea_moose5) for the art.
+Balatro mod for custom suits for pride flags. huge shoutout to [u/sea_moose5](https://www.reddit.com/r/balatro/comments/1l9bpst/my_custom_suits_for_pride_month/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) for the art.
 
 INSTALATION
 ===================
