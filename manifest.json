@@ -1,0 +1,10 @@
+{
+    "name": "Pride_Suits",
+    "id": "Pride_Suits",
+    "prefix": "pride_suits",
+    "version": "1.0",
+    "badge_colour": "40C040",
+    "main_file": "main.lua",
+    "description": "Retextures cards with LGBT-themed designs.",
+    "author": ["ajreckof", "Sea_moose5"]
+}
