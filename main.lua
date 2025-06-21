@@ -73,3 +73,74 @@ SMODS.DeckSkin {
 		},
 	},
 }
+
+local lgbt_deck2 = SMODS.Atlas {
+	key = "lgbt_deck2",
+	path = "LGBT_Deck2.png",
+	px = 71,
+	py = 95,
+}
+
+
+SMODS.DeckSkin {
+	key = "transgender",
+	suit = "Hearts",
+	loc_txt = "Transgender pride",
+	palettes = {
+		{
+			key = 'lc',
+			ranks = ranks,
+			display_ranks = display_ranks,
+			atlas = lgbt_deck2.key,
+			pos_style = 'deck',
+		},
+	},
+}
+
+
+SMODS.DeckSkin {
+	key = "non-binary",
+	suit = "Clubs",
+	loc_txt = "Non-Binary pride",
+	palettes = {
+		{
+			key = 'lc',
+			ranks = ranks,
+			display_ranks = display_ranks,
+			atlas = lgbt_deck2.key,
+			pos_style = 'deck',
+		},
+	},
+}
+
+
+SMODS.DeckSkin {
+	key = "intersex",
+	suit = "Diamonds",
+	loc_txt = "Intersex pride",
+	palettes = {
+		{
+			key = 'lc',
+			ranks = ranks,
+			display_ranks = display_ranks,
+			atlas = lgbt_deck2.key,
+			pos_style = 'deck',
+		},
+	},
+}
+
+
+SMODS.DeckSkin {
+	key = "genderfluid",
+	suit = "Spades",
+	loc_txt = "Genderfluid pride",
+	palettes = {
+		{
+			key = 'lc',
+			ranks = ranks,
+			display_ranks = display_ranks,
+			atlas = lgbt_deck2.key,
+			pos_style = 'deck',
+		},
+	},
+}
